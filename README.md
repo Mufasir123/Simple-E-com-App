@@ -1,8 +1,13 @@
-# React + Vite
+Simple E-commerece app which show some products 
+All products are fatched using dummy api 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+features:
+* it has search bar to search proudects
+* we can add any product to cart
+* while fetching the products it shows loading..
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+skills gained through this project
+*Javascript
+*React js
+*Redux toolkit
+*Tailwind CSS
